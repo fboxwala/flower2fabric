@@ -1,3 +1,4 @@
+# Flower2Fabric
 Flower2Fabric is a trained CycleGAN model, which tries to take pictures
 of flowers, and translate them to the style of floral fabric.
 
@@ -38,3 +39,5 @@ If you want to open individual images, your results are the files of the form
 ./results/flower2fabric/test\_latest/\*\_fake\_B.png. If you want to see them 
 displayed nicely, you can open ./results/flower2fabric/test\_latest/index.html
 in your web browser.
+
+![an image of a red flower and the same image after being run through flower2fabric](https://raw.githubusercontent.com/fboxwala/flower2fabric/master/imgs/red.png)
